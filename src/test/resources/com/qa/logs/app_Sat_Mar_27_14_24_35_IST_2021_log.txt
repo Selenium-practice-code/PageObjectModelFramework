@@ -1,0 +1,2 @@
+INFO    2021-03-27 14:24:36,138 [main] com.qa.base.Page  - Load Config Properties File
+INFO    2021-03-27 14:24:36,140 [main] com.qa.base.Page  - Load OR Properties File

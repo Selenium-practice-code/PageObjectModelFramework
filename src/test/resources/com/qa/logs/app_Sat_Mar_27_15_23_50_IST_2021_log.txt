@@ -1,0 +1,1 @@
+INFO    2021-03-27 15:23:52,842 [main] com.qa.base.Page  - Clicking on :-> signIn_XPATH

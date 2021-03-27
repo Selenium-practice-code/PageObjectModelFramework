@@ -1,0 +1,1 @@
+INFO    2021-03-27 14:13:24,397 [main] com.qa.base.Page  - Test successfully Executed !!!

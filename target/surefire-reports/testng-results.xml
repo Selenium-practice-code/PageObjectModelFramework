@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-27T16:17:57 IST" name="Page Object Model Framework  " finished-at="2021-03-27T16:19:28 IST" duration-ms="90972">
+    <groups>
+    </groups>
+    <test started-at="2021-03-27T16:17:57 IST" name="SignIn Test" finished-at="2021-03-27T16:18:14 IST" duration-ms="16770">
+      <class name="com.qa.testcases.SignInTest">
+        <test-method signature="signInTest(java.util.Hashtable)[pri:0, instance:com.qa.testcases.SignInTest@64030b91]" started-at="2021-03-27T16:17:57 IST" name="signInTest" data-provider="dp" finished-at="2021-03-27T16:18:11 IST" duration-ms="13187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Sonyc905, runmode=Y, username=practiceselenium7@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+      </class> <!-- com.qa.testcases.SignInTest -->
+    </test> <!-- SignIn Test -->
+    <test started-at="2021-03-27T16:18:16 IST" name="Create Account Test" finished-at="2021-03-27T16:19:28 IST" duration-ms="71597">
+      <class name="com.qa.testcases.CreateAccountTest">
+        <test-method signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.qa.testcases.CreateAccountTest@27fde870]" started-at="2021-03-27T16:18:16 IST" name="createAccountTest" data-provider="dp" finished-at="2021-03-27T16:19:28 IST" duration-ms="71277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{AccountName=Rohit, AccountSite=, AccountNumber=, Phone=, Industry=, Rating=, AnnualRevenue=, AccountType=, =, ParentAccount=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.CreateAccountTest@27fde870]" started-at="2021-03-27T16:19:28 IST" name="tearDown" finished-at="2021-03-27T16:19:30 IST" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.CreateAccountTest -->
+    </test> <!-- Create Account Test -->
+  </suite> <!-- Page Object Model Framework   -->
+</testng-results>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="84.466" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="JOB_NAME" value="PageObjectModelFrameworkLive"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="PWD" value="/Users/sumtagnihoti/eclipse/NewJenkins"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/10/display/redirect?page=tests"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/Users/sumtagnihoti/.jenkins"/>
+    <property name="PATH" value="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/mysql-8.0.18-macos10.14-x86_64/bin:/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home/bin:/bin:/Users/sumtagnihoti/Library/Android/sdk/tools:/Users/sumtagnihoti/Library/Android/sdk/platform-tools"/>
+    <property name="HUDSON_SERVER_COOKIE" value="95a4c5c20c99b7e2"/>
+    <property name="POM_ARTIFACTID" value="PageObjectModelFramework"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="TERM_PROGRAM" value="Apple_Terminal"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="TERM_SESSION_ID" value="4F694267-7814-45A4-BF94-6A466B5A48B3"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="PageObjectModelFramework"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
+    <property name="user.name" value="sumtagnihoti"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="PageObjectModelFrameworkLive"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/10/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#10"/>
+    <property name="TMPDIR" value="/var/folders/06/36qh6q5947b17tg1625njq240000gn/T/"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home/lib"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="XPC_FLAGS" value="0x0"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="TERM" value="xterm-256color"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="BUILD_ID" value="10"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="maven.conf" value="/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME/conf"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="IN"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.13.6"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/10/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/10/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/display/redirect"/>
+    <property name="SHLVL" value="1"/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="LOGNAME" value="sumtagnihoti"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="HOME" value="/Users/sumtagnihoti"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="POM_GROUPID" value="com.qa"/>
+    <property name="user.home" value="/Users/sumtagnihoti"/>
+    <property name="BUILD_TAG" value="jenkins-PageObjectModelFrameworkLive-10"/>
+    <property name="JENKINS_SERVER_COOKIE" value="95a4c5c20c99b7e2"/>
+    <property name="XPC_SERVICE_NAME" value="0"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="/Users/sumtagnihoti/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.5AxAuMKZoF/Render"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME"/>
+    <property name="java.class.path" value="/Users/sumtagnihoti/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.13.jar:/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME/boot/plexus-classworlds-2.6.0.jar:/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME /Users/sumtagnihoti/.jenkins/war/WEB-INF/lib/remoting-4.7.jar /Users/sumtagnihoti/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /Users/sumtagnihoti/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 49174"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="M2_HOME" value="/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.io.tmpdir" value="/var/folders/06/36qh6q5947b17tg1625njq240000gn/T/"/>
+    <property name="HUDSON_HOME" value="/Users/sumtagnihoti/.jenkins"/>
+    <property name="PATH+MAVEN" value="/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME/bin"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="OLDPWD" value="/Users/sumtagnihoti/eclipse"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/10/"/>
+    <property name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.1Jq5fmheiQ/Listeners"/>
+    <property name="LC_CTYPE" value="UTF-8"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="JAVA_MAIN_CLASS_8927" value="Main"/>
+    <property name="__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0"/>
+    <property name="user.dir" value="/Users/sumtagnihoti/eclipse-workspace/PageObjectModelFramework"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/PageObjectModelFrameworkLive/"/>
+    <property name="browser" value="chrome"/>
+    <property name="MAVEN_HOME" value="/Users/sumtagnihoti/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/MVN_HOME"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="10"/>
+    <property name="TERM_PROGRAM_VERSION" value="404.1"/>
+    <property name="ANDROID_HOME" value="/Users/sumtagnihoti/Library/Android/sdk"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="maven3.interceptor" value="/Users/sumtagnihoti/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="/Users/sumtagnihoti/.jenkins/workspace/PageObjectModelFrameworkLive@tmp"/>
+    <property name="WORKSPACE" value="/Users/sumtagnihoti/.jenkins/workspace/PageObjectModelFrameworkLive"/>
+    <property name="maven3.interceptor.common" value="/Users/sumtagnihoti/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="USER" value="sumtagnihoti"/>
+  </properties>
+  <testcase name="signInTest" classname="com.qa.testcases.SignInTest" time="13.189"/>
+  <testcase name="createAccountTest" classname="com.qa.testcases.CreateAccountTest" time="71.277"/>
+</testsuite>

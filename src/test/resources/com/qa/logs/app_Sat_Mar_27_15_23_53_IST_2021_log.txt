@@ -1,0 +1,4 @@
+INFO    2021-03-27 15:23:53,894 [main] com.qa.base.Page  - Typing in :-> loginID_XPATH Enterd value as :-> practiceselenium7@gmail.com
+INFO    2021-03-27 15:23:53,992 [main] com.qa.base.Page  - Clicking on :-> nextBtn_XPATH
+INFO    2021-03-27 15:23:54,145 [main] com.qa.base.Page  - Typing in :-> passwoord__XPATH Enterd value as :-> Sonyc905
+INFO    2021-03-27 15:23:54,227 [main] com.qa.base.Page  - Clicking on :-> loginBtn_XPATH
