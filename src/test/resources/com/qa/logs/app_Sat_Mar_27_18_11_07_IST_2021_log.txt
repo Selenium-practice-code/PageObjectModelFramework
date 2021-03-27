@@ -1,0 +1,1 @@
+INFO    2021-03-27 18:11:15,670 [main] com.qa.base.Page  - Clicking on :-> createAccount_XPATH
