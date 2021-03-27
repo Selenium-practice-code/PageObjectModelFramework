@@ -1,0 +1,4 @@
+INFO    2021-03-27 19:11:49,502 [main] com.qa.base.Page  - Load Config Properties File
+INFO    2021-03-27 19:11:49,504 [main] com.qa.base.Page  - Load OR Properties File
+INFO    2021-03-27 19:12:02,240 [main] com.qa.base.Page  - Chrome Browser Launched.
+INFO    2021-03-27 19:12:24,732 [main] com.qa.base.Page  - Navigating to :--> https://zoho.com
