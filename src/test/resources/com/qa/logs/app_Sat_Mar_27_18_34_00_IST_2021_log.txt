@@ -1,0 +1,1 @@
+INFO    2021-03-27 18:34:20,378 [main] com.qa.base.Page  - Clicking on :-> crm_XPATH

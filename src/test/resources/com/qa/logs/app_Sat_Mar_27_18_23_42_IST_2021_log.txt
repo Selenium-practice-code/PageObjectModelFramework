@@ -1,0 +1,2 @@
+INFO    2021-03-27 18:23:45,398 [main] com.qa.base.Page  - Typing in :-> accountName_XPATH Enterd value as :-> Rohit
+INFO    2021-03-27 18:23:47,159 [main] com.qa.base.Page  - Test successfully Executed !!!
